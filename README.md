@@ -1,0 +1,2 @@
+# AWS-Implementing-and-Troubleshooting-PaaS-Products
+Get up to speed with how to implement and troubleshoot the platform as a service (PaaS) products within Amazon Web Services (AWS). This course covers the primary PaaS components of AWS, going over each one, diving into implementation, and covering best practices. The topics covered include Identity and Access Management (IAM), CloudFormation, Elastic Beanstalk, and OpsWorks. This course can also help you prepare for the AWS Certified Solutions Architect - Associate exam.
